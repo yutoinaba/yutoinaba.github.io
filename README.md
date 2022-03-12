@@ -1,1 +1,1 @@
-# https-yutoinaba.github.io
+# yutoinaba.github.io
